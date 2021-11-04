@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "url": "../img/post1.jpg",
+    "title": "Học lập trình ReactJS",
+    "des": "Cách đây nhiều năm, người ta thường tạo HTML trên server side và sau đó thêm Javascript để tạo những tương tác cho người dùng. Tuy nhiên, ngày càng có nhiều yêu cầu cao về khả năng tương tác của một website cho nên trang web ngày càng khó bảo trì và có nhiều vấn đề performance hơn.Cho nên Javascript framework được tạo ra để giải quyết những vấn đề tạo nên cây DOM hiệu quả và hiệu suất cao chứ không phải tập trung vào viết HTML.Ví dụ ở trên rất quan trọng để bạn có cái hiểu cơ bản về DOM và tương tác với DOM như thế nào bằng cách chỉ sử dụng Javascript. Nó sẽ giúp bạn hiểu React làm việc như thế nào bên dưới. React giúp bạn tương tác và tạo nên cây DOM hiệu quả hơn với hiệu suất cao hơn."
+  },
+  {
+    "id": "2",
+    "url": "../img/post2.jpg",
+    "title": "ASP.NET Core là gì? Những lợi ích khi sử dụng ASP.NET Core",
+    "des": "ASP.NET là một nền tảng web được sử dụng để tạo các trang web, ứng dụng và dịch vụ web. Đây là sản phẩm tích hợp của các ngôn ngữ HTML, CSS và JavaScript. ASP.NET được ra đời vào năm 2002 và đến nay đã được nâng cấp thành nhiều phiên bản khác nhau.ASP.NET hoạt động trên HTTP, sử dụng các lệnh và chính sách của HTTP để trình duyệt có thể trở thành giao tiếp song phương của máy chủ.ASP.NET cung cấp những phát triển để tạo ứng dụng web như:Web Forms: ASP.NET cung cấp tương tác hướng sự kiện cho các ứng dụng web, nó được sử dụng để phát triển ứng dụng có quyền truy cập dữ liệu. Đồng thời, kiểu phát triển web này cũng sẽ cung cấp dữ liệu cho máy chủ và sự kiện để tạo nên ứng dụng phù hợp. Web Forms được phát triển một cách nhanh chóng nhờ vào sử dụng thư viện điều khiển phong phú đánh dấu HTML."
+  },
+  {
+    "id": "3",
+    "url": "../img/post3.jpg",
+    "title": "HackerRank là gì? Một số lưu ý cho người mới gia nhập HackerRank",
+    "des": "Nếu bạn là một nhà lập trình viên, chắc hẳn đã không còn xa lạ với thuật ngữ HackerRank này. Vậy HackerRank là gì? HackerRank thực chất là tên gọi của một trang web chuyên dụng dành cho các lập trình viên hay các doanh nghiệp hiện nay.Cụ thể, HackerRank được coi là nơi mà các lập trình viên từ khắp nơi trên thế giới tụ họp và cùng nhau giải quyết các vấn đề trong các lĩnh vực liên quan đến khoa học máy tính như thuật toán, máy học hay trí tuệ nhân tạo. Đây cũng là nơi mà các nhà lập trình sử dụng để thực hành các mô hình lập trình khác nhau.HackerRank được xem là một không gian học tập, trau dồi và rèn luyện những kiến thức hữu ích của các lập trình viên. Tại đây họ không chỉ được học hỏi mà còn có thể thể hiện được mình khi so tài với các đối thủ khác trong ngành trên toàn thế giới.Không chỉ là không gian dành cho những lập trình viên, HackerRank còn là nền tảng hữu ích giúp các công ty, nhà tuyển dụng nhìn nhận được kỹ năng code của các ứng viên. Trên thực tế, đối với nghề lập trình, khi phỏng vấn bằng lý thuyết thì người tuyển dụng khó có thể nhìn nhận được thực lực thật sự của các ứng viên. Còn đối với lập trình viên, khi không được thực hành, họ khó có thể bộc lộ hết được những tài năng của mình. Do vậy, HackerRank là một nguồn tìm kiếm những ứng cử viên sáng giá của nhà tuyển dụng.."
+  },
+  {
+    "id": "4",
+    "url": "../img/post4.jpg",
+    "title": "Oauth là gì? Những kiến thức hữu ích nhất về Oauth không nên bỏ qua",
+    "des": "Oauth chính là sự kết hợp của cụm từ Open Authentication được dịch là sự chứng minh/xác minh hay cũng có thể là Open Authorization - sự cho phép, cấp phép. Đó là cách hiểu theo nghĩa đen của Oauth khi được dịch sang tiếng anh.Để xét về nghĩa của từ Oauth trong thuật ngữ chuyên ngành và vai trò của chúng trong công nghệ thông tin thì Oauth được hiểu là sự ủy quyền thông qua bên thứ ba trong việc đăng nhập.Trong trường hợp bạn chỉ cần tìm kiếm những thông tin trên các trang web thông thường thì việc đăng nhập là không cần thiết. Tuy nhiên nếu bạn sử dụng các trang web yêu cầu đăng nhập (trang thương mại điện tử, ứng dụng web, forum,...), mỗi trang bạn sẽ cần đăng ký và nhớ tài khoản để truy cập. Trên thực tế để giúp cách đăng ký, đăng nhập nhanh hơn cũng như bảo mật thông tin của người dùng, thay vì phải đăng ký thêm các tài khoản mới, bạn có thể sử dụng những tài khoản khác đã có sẵn để đăng nhập như Google, Facebook, gmail, Twitter,... và còn rất nhiều những cách thức khác mà bạn có thể đăng nhập."
+  },
+  {
+    "id": "5",
+    "url": "../img/post5.jpg",
+    "title": "Crypto là gì? Top 4 bí quyết đầu tư Crypto hiệu quả nhất hiện nay",
+    "des": "Crypto (còn gọi là cryptocurrency) được hiểu là một loại tiền mã hóa, được sử dụng thông qua các dữ liệu giao dịch Blockchain. Nó có thể được gọi bằng những cái tên phổ biến khác như tiền điện tử, coin, tiền kỹ thuật số, tiền mật mã,... Nó tồn tại dưới dạng điện tử, lưu trữ và giao dịch thông qua phần mềm, các ứng dụng trên máy tính hoặc smartphone, thông qua các loại ví kỹ thuật số chuyên dụng.Nhiều người khi định nghĩa Crypto là gì đã gọi đây là tiền ảo. Tuy nhiên, cụm từ này không hoàn toàn chính xác. Bởi tiền ảo thì có giá trị không thực (ví dụ tiền nạp vào game). Còn giá trị của Crypto lại rất thực, có thể quy đổi nó ra thành tài sản hoặc dùng để trao đổi, mua - bán,... ."
+  },
+  {
+    "id": "6",
+    "url": "../img/post6.jpg",
+    "title": "[Thủ thuật] Cách ghi âm trên máy tính 'tay mơ' cũng làm được",
+    "des": "Ghi âm trên máy tính là nhu cầu của nhiều người dùng để sử dụng trong công việc, học tập, chơi game. Tuy nhiên, không phải ai cũng biết cách mở ghi âm như thế nào. Vì vậy, trong bài viết hôm nay, ITNavi.com.vn sẽ hướng dẫn bạn đọc cách ghi âm trên máy tính Win 10, 7, 8 hay máy MacBook đơn giản, nhanh chóng. "
+  },
+  {
+    "id": "7",
+    "url": "../img/post7.jpg",
+    "title": "Tuyển dụng IT khó, Lazada chọn ngay ITNavi với loạt job lương lên tới 4000$",
+    "des": "Khi nhà tuyển dụng sử dụng dịch vụ của ITNavi, vị trí cần tuyển dụng khó đến mấy thì ITNavi cũng sẽ “càn quét” trên mọi mặt trận để kịp thời đáp ứng CV cho đối tác.ITNavi tự hào là website tuyển dụng IT được các ứng viên “chọn mặt gửi CV”. Đảm bảo tỷ lệ tuyển dụng thành công cao hơn 80% so với các kênh tuyển dụng khác. Hơn nữa, đội ngũ support ứng viên và nhà tuyển dụng nhiệt tình, cởi mở.Ứng viên IT biết gì chưa?Ngoài những job ngon đến từ Lazada, ứng viên nhanh tay tham gia đại tiệc săn job IT lớn nhất trong năm. Để nhận loạt job lương cao đến từ nhiều nhà tuyển dụng khác.Trong tháng 11 này, ITNavi có chương trình “Đại tiệc săn job IT” quà tặng khủng lên đến 100 triệu đồng với cơ cấu giải thưởng như sau: 1 Giải nhất:  1 xe airblade 150 trị giá 50.000.000đ; 1 Giải nhì iphone 12 promax trị giá 26.500.000đ; 1 Giải ba chuột bluetooth apple trị giá 5.500.000đ. Khi ứng viên apply thì có ngay cơ hội nhận quà khủng"
+  },
+  {
+    "id": "8",
+    "url": "../img/post8.jpg",
+    "title": "Cơ hội bước chân tới Nhật Bản cùng VTI EDUCATION",
+    "des": "Sự phát triển của Công nghệ thông tin đóng vai trò quan trọng trong cách mạng 4.0 và hiện đang phát triển mạnh mẽ tại Việt Nam nói riêng, toàn thế giới nói chung. Chính vì vậy, nhu cầu nhân lực những năm gần đây gia tăng nhanh ở cả trong và ngoài nước nhất, nổi bật trong đó có Nhật Bản.Theo thống kê của VietnamWorks, Việt Nam sẽ thiếu hụt khoảng 78.000 nhân lực IT mỗi năm. Lấy năm 2010 làm mốc nhu cầu tuyển dụng ngành CNTT tăng gấp 4 lần sau 1 thập kỉ và có tốc độ tăng trưởng tương đối ổn định. Trong đó 7 nhóm ngành thuộc lĩnh vực CNTT có nhu cầu tuyển dụng phổ biến lần lượt là: Phát triển phần mềm, hỗ trợ kỹ thuật, quản lý dự án sản phẩm, UX UI, QA/QC, khoa học dữ liệu.Với vị thế dẫn đầu trong lĩnh vực đào tạo và phát triển nguồn nhân lực chất lượng cao cho các công ty CNTT trong nước và Quốc tế đặc biệt là Nhật Bản, VTI Education đã liên kết đào tạo với Trường Cao đẳng Kagoshima để cho ra đời chương trình đào tạo Lập trình viên Việt - Nhật. Theo học chuyên ngành CNTT tại VTI Education, sinh viên có nhiều cơ hội việc làm trong lĩnh vực IT với thu nhập cao cùng lộ trình thăng tiến rõ ràng.Khi trở thành học viên của VTI Education các bạn sẽ có cơ hội được trải nghiệm môi trường học tập chuẩn Nhật Bản ngay tại Việt Nam với nội dung đào tạo mang tính thực tiễn từ cơ bản đến nâng cao. Sinh viên sau tốt nghiệp nhận bằng Cao đẳng CNTT Nhật Bản, có khả năng làm việc thực tế, đầy đủ kỹ năng và trình độ tiếng Nhật tương đương N3 đến N2.VTI Education CAM KẾT 100 % việc làm tại các doanh nghiệp lớn tại Việt Nam và Nhật Bản cho sinh viên sau khi tốt nghiệp với mức thu nhập từ 8-15 triệu đồng/tháng."
+  }
+]

@@ -1,0 +1,14 @@
+.header {
+  margin: 4vh 0 8vh;
+  background-color: $color-primary;
+  .nav-item {
+    .nav-link {
+      font-weight: 600;
+      color: $b-color;
+      transition: all 0.4s;
+      &:hover {
+        color: $hover-color-primary-d;
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+.view-post-g {
+  position: relative;
+  &__back {
+    display: inline-block;
+    margin-left: 2vw;
+    font-size: 18px;
+    transition: all 0.4s;
+    cursor: pointer;
+    &:hover {
+      transform: translateY(-3px);
+    }
+  }
+  &__content {
+    padding: 0 6vw;
+    &--title {
+      font-size: 30px;
+      color: $t-b-color;
+    }
+    &--img {
+      margin: 3vw 4vw;
+      & img {
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+        // object-fit: cover;
+      }
+    }
+    &--des {
+      color: $t-b-l-color;
+    }
+  }
+}

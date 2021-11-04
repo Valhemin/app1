@@ -1,0 +1,17 @@
+.create-post {
+  margin-bottom: 60px;
+  padding: 0 4vw;
+  text-align: center;
+  &__title {
+    margin-bottom: 4vh;
+    font-size: 3vw;
+  }
+  &__label {
+    margin: 3vh 0;
+    margin-right: 0.6vw;
+  }
+  &__btn {
+    margin-top: 20px;
+    background-color: #dcdbdb;
+  }
+}
